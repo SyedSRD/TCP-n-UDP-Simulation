@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(95): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(115): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(135): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(144): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(145): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(178): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(179): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(205): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(206): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(272): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(292): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syed\documents\visual studio 2015\projects\tcpnudp\tcpnudp\source.cpp(295): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  tcpnudp.vcxproj -> C:\Users\SYED\documents\visual studio 2015\Projects\tcpnudp\Debug\tcpnudp.exe
+  tcpnudp.vcxproj -> C:\Users\SYED\documents\visual studio 2015\Projects\tcpnudp\Debug\tcpnudp.pdb (Partial PDB)
